@@ -1,0 +1,84 @@
+{
+    "questions":[
+        {
+            "questionText":"What is your name ?",
+            "options":[
+                {
+                    "text":"Jagadeesh",
+                    "correct" : true
+                },
+                {
+                    "text" : "Suresh"
+                },
+                {
+                    "text" :"Mahesh"
+                },
+                {
+                    "text" : "Vivek"
+                }
+
+            ],
+            "explanation":"Name start with J letter"
+        },
+        {
+            "questionText":"What is India Capital?",
+            "options":[
+                {
+                    "text":"Delhi",
+                    "correct" : true
+                },
+                {
+                    "text" : "China"
+                },
+                {
+                    "text" :"Singapure"
+                },
+                {
+                    "text" : "Andhra pradesh"
+                }
+
+            ],
+            "explanation":"Name start with J letter"
+        },
+        {
+            "questionText":"What is your name ?",
+            "options":[
+                {
+                    "text":"Jagadeesh",
+                    "correct" : true
+                },
+                {
+                    "text" : "Suresh"
+                },
+                {
+                    "text" :"Mahesh"
+                },
+                {
+                    "text" : "Vivek"
+                }
+
+            ],
+            "explanation":"Name start with J letter"
+        },
+        {
+            "questionText":"What is your name ?",
+            "options":[
+                {
+                    "text":"Jagadeesh",
+                    "correct" : true
+                },
+                {
+                    "text" : "Suresh"
+                },
+                {
+                    "text" :"Mahesh"
+                },
+                {
+                    "text" : "Vivek"
+                }
+
+            ],
+            "explanation":"Name start with J letter"
+        }
+    ]
+}
